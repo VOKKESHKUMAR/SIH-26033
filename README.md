@@ -129,4 +129,4 @@ Overall, the platform promotes rural digital transformation, improves agricultur
 
 10\. React – Frontend development framework: [https://react.dev/](https://react.dev/?utm_source=chatgpt.com)
 
-This text is formatted so you can directly copy and paste it into your SIH submission form.
+
